@@ -1,0 +1,19 @@
+*{
+    margin:0;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    
+}
+footer{
+    margin-top: auto;
+    align-items: center;
+    background-color: gold;
+    color: aliceblue;
+    height: 8rem;
+    flex:1;
+    display:flex;
+    justify-content: center;
+
+}
